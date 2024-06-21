@@ -22,7 +22,7 @@ int main() {
         cout << endl;
         cout << endl;
         cout << "MENU" << endl;
-        cout << "Podaj numer czynnosci, ktora chcesz wykonac" << endl;
+        cout << "Podaj numer czynnosci, ktora chcesz wykonac" <<  endl;
         cout << "1. Silnia" << endl;
 	cout << "0. Wyjscie" << endl;
         cin >> wyjscie;
